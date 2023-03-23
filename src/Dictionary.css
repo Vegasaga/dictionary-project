@@ -1,3 +1,9 @@
 .Dictionary {
-  color: aqua;
+  margin: 30px 0;
+  text-align: center;
+  color: black;
+}
+
+.search-row {
+  margin: 30px 0;
 }
